@@ -49,7 +49,7 @@ export default function Home ({ allPostsData }) {
       </section>
     </Layout>
     <footer className={utilStyles.footer}>
-    <p>Source code available on <a href="https://github.com/SeanPedersen/seans-blog" rel="noreferrer noopener" target="_blank">Github</a></p>
+    <p>Source code available on <a href="https://github.com/Ravn-Tech/website" rel="noreferrer noopener" target="_blank">Github</a></p>
 </footer>
 </div>
   )
