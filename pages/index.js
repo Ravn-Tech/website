@@ -48,8 +48,8 @@ export default function Home ({ allPostsData }) {
       </section>
     </Layout>
     <footer className={utilStyles.footer}>
-    <p>Source code available on <a href="https://github.com/Ravn-Tech/website" rel="noreferrer noopener" target="_blank">Github</a> | Stay in touch: <a href="https://twitter.com/RavnTech" rel="noreferrer noopener" target="_blank">@RavnTech</a> | Ravn Tech, Inc. 2021 - Copyright</p>
-</footer>
+      <p>Source on <a href="https://github.com/Ravn-Tech/website" rel="noreferrer noopener" target="_blank">Github</a> | Twitter: <a href="https://twitter.com/RavnTech" rel="noreferrer noopener" target="_blank">@RavnTech</a> | © 2021, Ravn Tech, Inc.</p>
+    </footer>
 </div>
   )
 }
