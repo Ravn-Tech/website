@@ -28,8 +28,7 @@ export default function Home ({ allPostsData }) {
         <a href="/posts/join"><p className={utilStyles.menu_element}>JOIN</p></a>
       </section>
       <section className={utilStyles.headingMd}>
-        <p>Effective technology applications.</p>
-        <p>Stay in touch: <a href="https://twitter.com/RavnTech" rel="noreferrer noopener" target="_blank">@RavnTech</a></p>
+        <p>RAPIDLY EMERGING &amp; ADAPTING FLOCK.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
@@ -49,7 +48,7 @@ export default function Home ({ allPostsData }) {
       </section>
     </Layout>
     <footer className={utilStyles.footer}>
-    <p>Source code available on <a href="https://github.com/Ravn-Tech/website" rel="noreferrer noopener" target="_blank">Github</a></p>
+    <p>Source code available on <a href="https://github.com/Ravn-Tech/website" rel="noreferrer noopener" target="_blank">Github</a> | Stay in touch: <a href="https://twitter.com/RavnTech" rel="noreferrer noopener" target="_blank">@RavnTech</a> | Ravn Tech, Inc. 2021 - Copyright</p>
 </footer>
 </div>
   )
