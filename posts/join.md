@@ -8,7 +8,7 @@ Be part of the flock and start building. Apply now and soon you might enjoy foll
 - Create your own hierarchies or join existing ones
 - Minimal scheduled meetings (written communication first. chats & issues)
 - Monthly direct share of project's profits you have contributed to
-- Monthly base income of 420 EUR
+- Monthly base income of 420 EUR (will increase soon)
 - Start your own project (alone or with other members) and potentially earn big profits
 - Develop your own niche / project and work on whatever interests you / brings us forward
 - Get a cool cup and a shirt
