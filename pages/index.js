@@ -23,7 +23,7 @@ export default function Home ({ allPostsData }) {
       </Head>
       <section className={utilStyles.menu}>
         <a href="/posts/ravn-tech"><p className={utilStyles.menu_element}>ABOUT</p></a>
-        <p className={utilStyles.menu_element}>PROJECTS</p>
+        <a href="/posts/projects"><p className={utilStyles.menu_element}>PROJECTS</p></a>
         <a href="/posts/team"><p className={utilStyles.menu_element}>TEAM</p></a>
         <a href="/posts/join"><p className={utilStyles.menu_element}>JOIN</p></a>
       </section>

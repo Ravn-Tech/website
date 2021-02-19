@@ -14,4 +14,4 @@ Exponential digital trend discovery for news and social media using AI. (Markets
 Knowledge management made for humans using tags and AI. (Markets: Knowledge Management)
 
 
-Curious for more? Follow <a href="https://twitter.com/RavnTech" rel="noreferrer noopener" target="_blank">@RavnTech</a></p> to stay up to date on our latest developments.
+Curious for more? Follow <a href="https://twitter.com/RavnTech" rel="noreferrer noopener" target="_blank">@RavnTech</a> to stay up to date on our latest developments.
