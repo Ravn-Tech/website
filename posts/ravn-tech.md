@@ -55,6 +55,8 @@ A project member is solving problems that help turning the project vision into a
 
 The project's profit share distribution is a critical component. It can be, if executed correctly, a strong positive feedback loop for members to put in smart impactful work if it gets translated directly into a fair share of their created projects profits.
 
+Projects are encouraged to donate around 4.2% of their profits to key FOSS they build on (Increase funding for small/underfunded projects).
+
 But how to distribute the project profit among the projects team members? That is a hard question to answer. A formula for the distribution would involve many parameters such as idea/innovation development, efficiency of executed work, impact of work, absolute or temporal shares etc.
 
 The project lead team should distribute shares initially as fair as possible. As the project staff team grows, transitioning into a more scalable approach (as follows) is advised. 
