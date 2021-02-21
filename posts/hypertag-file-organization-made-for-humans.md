@@ -2,7 +2,7 @@
 title: 'HyperTag: File Organization made for Humans'
 date: '2021-01-10'
 ---
-<a href="https://github.com/SeanPedersen/HyperTag" rel="noreferrer noopener" target="_blank">HyperTag</a> let's humans intuitively express how they think about their files using tags and the power of modern machine learning. Instead of introducing proprietary file formats like other existing file organization solutions, HyperTag just layers on top of your existing files without any fuss.
+<a href="https://github.com/SeanPedersen/HyperTag" rel="noreferrer noopener" target="_blank">HyperTag</a> let humans intuitively express how they think about their files using tags and the power of modern machine learning. Instead of introducing proprietary file formats like other existing file organization solutions, HyperTag just layers on top of your existing files without any fuss.
 
 HyperTag is built around one simple goal: **Minimize the time between a thought and access to all relevant files.**
 
@@ -36,7 +36,7 @@ HyperTag uses fuzzy matching to minimize friction in the unlikely case of a typo
 - ```$ hypertag query Rsearch minus "Banna Farmng"``` prints: DeepLearning.pdf
 
 ### Semantic Text & Image Search
-HyperTag uses the latest research advances from Machine Learning for vision and text to provide easy access to all your files: Search for **images** (jpg, png) and **text documents** (yes, even PDF's) content with a simple text query. Text search is powered by the awesome [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) library. Text to image search is powered by OpenAI's [CLIP model](https://openai.com/blog/clip/). Currently only English queries are supported.
+HyperTag uses the latest research advances from Machine Learning for vision and text to provide easy access to all your files: Search for **images** (jpg, png) and **text documents** (yes, even PDF's) content with a simple text query. Text search is powered by the awesome [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) library. Text to image search is powered by OpenAI's [CLIP model](https://openai.com/blog/clip/). Currently, only English queries are supported.
 
 **Semantic search for text files**<br>
 Print text file names sorted by matching score.
@@ -78,7 +78,7 @@ Another small but very useful feature: Quickly get an overview of your HyperTag 
 ## Architecture
 - Python and it's vibrant open-source community power HyperTag
 - Many other awesome open-source projects make HyperTag possible (listed in `pyproject.toml`)
-- SQLite3 serves as the meta data storage engine (located at `~/.config/hypertag/hypertag.db`)
+- SQLite3 serves as the metadata storage engine (located at `~/.config/hypertag/hypertag.db`)
 - Symbolic links and directories are used to represent your files and tags in the `HyperTagFS` directory
 - Semantic text search is powered by the awesome [DistilBERT](https://arxiv.org/abs/1910.01108)
 - Text to image search is powered by OpenAI's impressive [CLIP model](https://openai.com/blog/clip/)
