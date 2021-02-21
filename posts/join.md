@@ -2,7 +2,7 @@
 title: 'Join the Flock'
 date: '2021-02-16'
 ---
-Be part of the flock and start building. Apply now and soon you might enjoy following benefits:
+Be part of the Ravn Tech Flock and start building. Apply now and soon you might enjoy following benefits:
 - Learn from an awesome team of passionate individuals
 - Highly flexible schedule (only 5 hours per week required, remote first culture)
 - Create your own hierarchies or join existing ones

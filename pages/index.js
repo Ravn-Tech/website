@@ -24,7 +24,7 @@ export default function Home ({ allPostsData }) {
       <section className={utilStyles.menu}>
         <a href="/posts/ravn-tech"><p className={utilStyles.menu_element}>ABOUT</p></a>
         <a href="/posts/projects"><p className={utilStyles.menu_element}>PROJECTS</p></a>
-        <a href="/posts/team"><p className={utilStyles.menu_element}>TEAM</p></a>
+        <a href="/posts/flock"><p className={utilStyles.menu_element}>FLOCK</p></a>
         <a href="/posts/join"><p className={utilStyles.menu_element}>JOIN</p></a>
       </section>
       <section className={utilStyles.headingMd}>
