@@ -2,12 +2,12 @@
 title: 'Launching Ravn Tech'
 date: '2021-02-16'
 ---
-Ravn Tech, Inc. is a startup that strives to propel humanity forward by tranforming technological progress into tangible solutions solving real problems. We understand ourselves as a diverse interdisciplinary team working together on our shared vision. We want to create something lasting: an idea and people accelerator (melting pot) that brings the right people with the right ideas together, turning them into reality with a positive impact.
+Ravn Tech, Inc. is a startup that strives to propel humanity forward by transforming technological progress into tangible solutions solving real problems. We understand ourselves as a diverse interdisciplinary team working together on our shared vision. We want to create something lasting: an idea and people accelerator (melting pot) that brings the right people with the right ideas together, turning their potential into reality with a positive impact.
 
 ## Values
 We value free and open communication.
 
-We value our planet and all of it's inhabitants.
+We value our planet and all of its inhabitants.
 
 We value Free Open Source Software, Open Science and Open Information.
 
@@ -19,9 +19,9 @@ We see value in multi-planetary expansion efforts.
 
 ## Principles
 
-The company's foremost goal is providing an inviting playing ground for people to collaborate on ideas turning them together into reality.
+The company's foremost goal is to provide an inviting playground for people to collaborate on ideas turning them together into reality.
 
-Open mindedness, creativity and communication drive us every day. We embrace radical first principle thinking approaches to create processes that arrive at non obvious but highly efficient solutions.
+Open mindedness, creativity and communication drive us every day. We embrace radical first principle thinking approaches to create processes that arrive at non-obvious but highly efficient solutions.
 
 Promote diversity / an exchange of ideas and people between projects by working transparently (where security allows it) benefiting the whole project group / flock.
 
@@ -59,9 +59,9 @@ Projects are encouraged to donate around 4.2% of their profits to key FOSS they 
 
 But how to distribute the project profit among the projects team members? That is a hard question to answer. A formula for the distribution would involve many parameters such as idea/innovation development, efficiency of executed work, impact of work, absolute or temporal shares etc.
 
-The project lead team should distribute shares initially as fair as possible. As the project staff team grows, transitioning into a more scalable approach (as follows) is advised. 
+The project lead team should distribute shares initially as fair as possible. As the project staff team grows, transitioning into a more scalable approach (as follows) is advised. 
 
-Ideal project share distribution: A random group (of at least three) with more than half? of them being part of the project or having relevant background to the work done (e.g. work: marketing -> expertise:psychology or programming -> computer science) should be sampled from the whole Raven Tech flock to decide upon the share each respective member deserves for their work done within that project. This system should scale fine in the growing group if all work is transparently available. It also prevents out of touchness (ivory tower) decisions and corruption by samping random subgroups from an ideally large pool of members. The share distribution is a complex problem which needs a continuous solution search process.
+Ideal project share distribution: A random group (of at least three) with more than half? of them being part of the project or having relevant background to the work done (e.g. work: marketing -> expertise:psychology or programming -> computer science) should be sampled from the whole Raven Tech flock to decide upon the share each respective member deserves for their work done within that project. This system should scale fine in the growing group if all work is transparently available. It also prevents out of touchness (ivory tower) decisions and corruption by sampling random subgroups from an ideally large pool of members. The share distribution is a complex problem which needs a continuous solution search process.
 
 ## Vision
 Realize ideas without hassle. Handling of all the share management between members happens digitally persisted on a blockchain data structure that represents the projects state of share distributions. If possible try to digitize the share attribution process by integrating the impact of a problem, the percentage of each member on solving the problem and possible democratic votes on the impact number of a problem. Utilize decentralized voting technology to involve the whole flock on more decisions. Create an internal index of persons and skills and interests, to foster rapid reorganization and interconnection within the flock.
@@ -87,8 +87,8 @@ Long term projects that need bigger initial funding capital to be viable for exe
 #### HedgeFund
 Boost companies working on stuff aligned with our values using AI analysis and trading bots. Profit.
 
-#### SpaceYeeter 
-Yeet stuff into space fast and cheap using physics & engineering. Yeeeet.
+#### SpaceYeeter 
+Yeet stuff into space fast and cheap using physics & engineering. Yeeeet.
 
 #### CrimeDetector
 Automatic video footage analysis to detect criminal behavior in real time 24/7.
@@ -98,10 +98,13 @@ Join the Ravn Tech Flock as a supporter, advisor, investor or even as a project 
 
 ### Supporter
 Engage with us on social media. Use our products and give us honest feedback to support Ravn Tech.
+
 ### Advisor
-Want to help Ravn Tech with your expertise without commiting to any fixed schedule / time investment? Join as an advisor to help us out with your deep expertise to realize projects you want to see built.
+Want to help Ravn Tech with your expertise without committing to any fixed schedule / time investment? Join as an advisor to help us out with your deep expertise to realize projects you want to see built.
+
 ### Investor
 Do you believe in Ravn Tech? Put your money where your mouth is and buy some shares to help us built the future faster.
+
 ### Partner
 Want to join the flock and start building? Cool beans, apply now and soon you might enjoy following benefits:
 - Learn from an awesome team of passionate individuals
