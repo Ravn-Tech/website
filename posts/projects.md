@@ -7,6 +7,9 @@ A short list of projects in the works at Ravn Tech, Inc.
 #### NeoTree (release coming soon)
 Logarithmic data visualization using AI.
 
+#### Knallwert (release coming soon)
+One picture, one price estimate using AI.
+
 #### EarlyBirds (work in progress)
 Exponential digital trend discovery for news and social media using AI.
 
