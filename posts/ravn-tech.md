@@ -2,7 +2,7 @@
 title: 'Launching Ravn Tech'
 date: '2021-02-16'
 ---
-Ravn Tech, Inc. is a startup that strives to propel humanity forward by transforming technological progress into tangible solutions solving real problems. We understand ourselves as a diverse interdisciplinary team working together on our shared vision. We want to create something lasting: an idea and people accelerator (melting pot) that brings the right people with the right ideas together, turning their potential into reality with a positive impact.
+Ravn Tech is a startup based in Hamburg, Germany that strives to propel humanity forward by transforming technological progress into tangible solutions solving real problems. We understand ourselves as a diverse interdisciplinary team working together on our shared vision. We want to create something lasting: an idea and people accelerator (melting pot) that brings the right people with the right ideas together, turning their potential into reality with a positive impact.
 
 ## Values
 We value free and open communication.
